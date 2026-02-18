@@ -21,14 +21,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimen
 #
 
 >[!NOTE]
-> Estudando, evoluindo e construindo projetos com foco em qualidade, performance e boas práticas.
+> Estudando HTML,CSS e JavaScript, evoluindo e construindo projetos com foco em qualidade, performance e boas práticas.
 
 ### 💻 Formação em Desenvolvimento Fullstack
 Formação profissional com foco prático em:
 HTML, CSS, JavaScript, Git e arquitetura moderna de aplicações web.
 
 ### 🤝 Colaboração e Projetos
-Aberto a colaborações em projetos open source, trabalhos freelance. Gosto de transformar ideias em produtos reais através de organização e boa experiência do usuário.
+Aberto a colaborações em projetos voluntarios. Gosto de transformar ideias em produtos reais através de organização e boa experiência do usuário.
 
 ### 🌱 Filosofia como Desenvolvedor
 Acredito na tecnologia como ferramenta para simplificar processos e melhorar a vida das pessoas. Atuo no front-end, back-end e Design, criando soluções completas com foco em performance, estética e usabilidade.
